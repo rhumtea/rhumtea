@@ -1,4 +1,4 @@
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=225DF7&random=false&width=435&lines=Hello%2C+my+name+is+RhumTea.+Welcome+to+my+GitHub!" alt="Typing SVG" />
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+RhumTea.;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <hr/>
@@ -7,7 +7,7 @@
 
 <br/>
 <div>
-    <img align="center" src="![](https://komarev.com/ghpvc/?username=rhumtea&color=green)"/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=rhumtea&color=green"/>
 </div>
 
 <div align="left">
@@ -23,5 +23,5 @@ My name is RhumTea.
 <div>
     <h2 align="center">Here is my programming language</h2>
     <br/>
-    <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhumtea&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhumtea&layout=donut" />
 </div>
