@@ -6,9 +6,9 @@
 <div align="left">
 My name is RhumTea.<br>
 - 👨‍🎓 I'm Senior in Computer Science at CSU Long Beach. I will graduate on December 2024.<br>
-- 🔭 I’m currently working on my small project to create a TodoList with dotNet, LINQ and Entity framework. I have no experience about them.<br>
-- 🌱 I’m currently learning Operation System, Computer Graphic, and dotNet.<br> 
-- 👯 I’m looking to collaborate on open-source project, group project and get offer for a summer internship.<br>
+- 👯 I have an internship with a open source project this summer 2024.<br>
+- 🔭 I’m currently working on my team's project (Workflow Sync v1) which is a mobile application about the restaurant's staff management. <br>
+
 </div>
 
 <div align="center">
