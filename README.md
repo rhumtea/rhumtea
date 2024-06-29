@@ -6,7 +6,7 @@
 <div align="left">
 My name is RhumTea.<br>
 - 👨‍🎓 I'm Senior in Computer Science at CSU Long Beach. I will graduate on December 2024.<br>
-- 👯 I have an internship with a open source project this summer 2024.<br>
+- 👯 I have an internship with an open source project this summer 2024.<br>
 - 🔭 I’m currently working on my team's project (Workflow Sync v1) which is a mobile application about the restaurant's staff management. <br>
 
 </div>
